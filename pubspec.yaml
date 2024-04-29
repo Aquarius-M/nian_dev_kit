@@ -18,10 +18,6 @@ dependencies:
   get_server: ^1.2.1
   
   tuple: ^2.0.2
-  # base_utils:
-  #   path: ../base_utils
-    # git:
-    #   url: https://github.com/Aquarius-M/base_utils.git
   shared_preferences: ^2.2.2
   image: ^4.1.7
   touch_indicator: ^2.0.0

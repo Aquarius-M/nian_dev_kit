@@ -49,7 +49,7 @@ class DevKit extends StatefulWidget {
   State<DevKit> createState() => _DevKitState();
 }
 
-/// Hold the [_UMEWidgetState] as a global variable.
+/// Hold the [_devKitState] as a global variable.
 _DevKitState? _devKitState;
 
 class _DevKitState extends State<DevKit> {

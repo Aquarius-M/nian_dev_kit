@@ -31,8 +31,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  dev_kit:
-    path:  ../../dev_kit
+  nian_dev_kit:
+    path:  ../../nian_dev_kit
   # git:
   #   url: https://github.com/Aquarius-M/dev_kit.git
 

@@ -1,3 +1,7 @@
+## 0.0.2
+
+* 修复错误
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* 新建项目
